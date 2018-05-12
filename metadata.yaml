@@ -1,0 +1,29 @@
+_repo: Une-f-te-de-No-l-sous-Jacques-Cartier_20635
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Myrand, Ernest
+    birthdate: 1854
+    deathdate: 1921
+    gutenberg_agent_id: '9430'
+    url: http://www.gutenberg.org/2009/agents/9430
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2007-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20635'
+  lccn: '15017572'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cartier, Jacques, 1491-1557'
+- !lcc 'E011'
+- !lcsh 'Christmas'
+title: Une fête de Noël sous Jacques Cartier
+url: http://www.gutenberg.org/ebooks/20635
