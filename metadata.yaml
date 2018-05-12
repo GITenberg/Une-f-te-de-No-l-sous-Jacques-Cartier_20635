@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9430'
     url: http://www.gutenberg.org/2009/agents/9430
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20635#Une-f-te-de-No-l-sous-Jacques-Cartier
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2007-02-21'
 gutenberg_type: Text
